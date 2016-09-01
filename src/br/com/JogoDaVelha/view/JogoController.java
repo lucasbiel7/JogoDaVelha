@@ -33,6 +33,7 @@ import javafx.util.Duration;
  */
 public class JogoController implements Initializable {
 
+    
     @FXML
     private AnchorPane apPrincipal;
     @FXML
